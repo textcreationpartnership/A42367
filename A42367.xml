@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A thanksgiving-sermon preached at St. Michaels Crooked-Lane April 16th, 1696, upon occasion of His Majestie's deliverance from the late intended assassination of his sacred person in order to a French invasion / by James Gardiner.</title>
+            <author>Gardiner, James, 1637-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42367</idno>
+            <idno type="STC">Wing G228</idno>
+            <idno type="STC">ESTC R26742</idno>
+            <idno type="EEBO-CITATION">09527731</idno>
+            <idno type="OCLC">ocm 09527731</idno>
+            <idno type="VID">43519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43519)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A thanksgiving-sermon preached at St. Michaels Crooked-Lane April 16th, 1696, upon occasion of His Majestie's deliverance from the late intended assassination of his sacred person in order to a French invasion / by James Gardiner.</title>
+                  <author>Gardiner, James, 1637-1705.</author>
+               </titleStmt>
+               <extent>22, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for B. Aylmer,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:43519:1"/>
+            <pb facs="tcp:43519:1" rendition="simple:additions"/>
+            <p>
+               <add>July. 3. 1696. M<hi rend="sup">r</hi> Biship. 6<hi rend="sup">d</hi>.</add>
+            </p>
+            <p>Mr. <hi>GARDINER</hi>'s Thankſgiving-SERMON Preached at St. <hi>Michaels-Crooked-Lane, April</hi> 16th 1696.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:43519:2"/>
+            <pb facs="tcp:43519:2" rendition="simple:additions"/>
+            <p>A Thankſgiving-SERMON Preached at St. <hi>Michaels Crooked-Lane,</hi> April 16th. 1696.</p>
+            <p>Upon Occaſion of His MAJESTIE'S Deliverance From the Late Intended <hi>Aſſaſſination of <hi>His SACRED PERSON,</hi>
+               </hi> In Order to a <hi>FRENCH INVASION.</hi>
+            </p>
+            <p>By <hi>JAMES GARDINER,</hi> Rector of the ſaid Pariſh.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>B. Aylmer,</hi> at the <hi>Three Pigeons</hi> in <hi>Cornhill,</hi> MDCXCVI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:43519:3"/>
+            <pb n="1" facs="tcp:43519:3"/>
+            <head>A Thankſgiving-SERMON.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 TIM. 3 Chap. ver. 1. and begin<g ref="char:EOLhyphen"/>ning of the 4th.</bibl>
+                  <p n="1">1 <hi>This know alſo, that in the laſt Days, perillous times ſhall come; for men ſhall be</hi>
+                  </p>
+                  <p n="4">4 <hi>Traytors,</hi> &amp;c.—</p>
+               </q>
+            </epigraph>
+            <p>A Time (<hi>Solomon</hi> ſays there is) to be <hi>Silent,</hi> and a <hi>Time</hi> to Speak; ſuch an One is this that now offers it ſelf upon the Happy Diſcovery of the late Barbarous Plot deſign'd againſt His Majeſties Sacred Life, in Order to a <hi>French</hi> Invaſion. (Of the Truth and Reality of
+<pb n="2" facs="tcp:43519:4"/>which, the flying of <hi>ſome</hi> from Juſtice; the very extenuating and mincing of Matters by <hi>others</hi> at their Tryals; and their <hi>Volun<g ref="char:EOLhyphen"/>tary Confeſsions</hi> in their <hi>Papers</hi> deliver'd with their <hi>own Hands immediately</hi> before they were <hi>turn'd off,</hi> and went to their Place are full Evidence, and irrefragable Arguments; and muſt ſatisfie all the World, except <hi>ſuch Miſcreants</hi> that want Demonſtration from the accurſed Deed; from which Good Lord deliver us.) Which hath ſo much of Horror, and Villany in it, that ſhould we now be Dumb, and not open our Mouths in an utter deteſtation of it, the Stone out of the Wall would cry out a<g ref="char:EOLhyphen"/>gainſt ſuch an Irreligious Silence, and the Beam out of the Timber would anſwer it.</p>
+            <p>It's a Sign that the World is a dangerous place to live in, and almoſt at an End, not far from the Gates of Death, when we ſee ſo many Grey Hairs (the Meſſen<g ref="char:EOLhyphen"/>gers of an approaching Diſſolution) upon
+<pb n="3" facs="tcp:43519:4"/>her. My meaning is, when Men ſhall be Traytors. <hi>This know alſo that in the laſt days, perillous Times ſhall come; for men ſhall be—Traytors.</hi>
+            </p>
+            <p>You'l pardon me if I be not over-me<g ref="char:EOLhyphen"/>thodical to Day, or do not ſpeak ſo cloſely to the Text as I ought to have done at another Time; my deſign being only this at preſent, <hi>viz.</hi> to draw you out a ſhort <hi>Figure</hi> of thoſe Miſeries which would in<g ref="char:EOLhyphen"/>fallibly have attended this Curſed Con<g ref="char:EOLhyphen"/>ſpiracy had it taken effect; and to hint in two or three Particulars what we are all obliged to (for the day is too <hi>little</hi> for the day to acquaint you with the whole of your Duty) upon the Receipt of ſuch Fa<g ref="char:EOLhyphen"/>vours, of <hi>ſuch</hi> a Deliverance as <hi>this;</hi> that can be compared to nothing but it ſelf, and may have many Deliverances in it which we know not of.</p>
+            <pb n="4" facs="tcp:43519:5"/>
+            <p> When <hi>Sixtus Quintus</hi> began his Encomi<g ref="char:EOLhyphen"/>aſtical Oration of the <hi>Jacobine</hi> that kill'd the <hi>French</hi> King, it was with the Words of the Prophet <hi>Habakkuk;
+<note place="margin">
+                     <hi>Chap.</hi> 1.5.</note> Behold a work wrought in your days, you will not believe it when it ſhall be told you;</hi> a poor <hi>Fryar</hi> hath ſlain the great King of <hi>France.</hi> Such another piece of <hi>Work</hi> ſhould have been done in <hi>Our</hi> Days, and I make no Queſtion but we ſhould have had ſuch kind of Speeches made too in Defence of it, and the <hi>Divine Providence</hi> Magnify'd in it alſo. But thanks be to GOD (who is wonderful in Counſel and excellent in working) he has done <hi>another</hi> work, in which with open Face we may behold his Glory: Behold! what <hi>Pre<g ref="char:EOLhyphen"/>vention</hi> of Deſolation he hath <hi>wrought</hi> in the <hi>Land!</hi> for nothing <hi>Leſs</hi> could have been expected from <hi>ſuch</hi> Conſpirators: Men that neither fear GOD nor Reverence Man; Men of ſuch <hi>debauch'd</hi> Principles; (to whom it's as <hi>Natural</hi> to hate and <hi>Kill Princes</hi> as to <hi>Eat</hi> their GOD) Men of
+<pb n="5" facs="tcp:43519:5"/>
+               <hi>ſuch Deſperate</hi> Fortunes, or, which is <hi>worſe</hi> of the two, <hi>Plentiful</hi> Ones.</p>
+            <p>What Fleſh does not <hi>tremble</hi> to think what would have follow'd upon the <hi>Kings Death,</hi> or a <hi>French Invaſion! Blood,</hi> and <hi>Fire,</hi> and <hi>Pillars</hi> of <hi>Smoak!</hi> The <hi>Confuſed Noiſe</hi> of the <hi>Warriour;</hi> and Garments <hi>rowled</hi> in <hi>Blood.</hi> The <hi>Mother daſht</hi> in <hi>pieces</hi> upon the <hi>Children:</hi> No <hi>Reverence</hi> to the Perſon of the <hi>Aged,</hi> nor <hi>pity</hi> to the ſucking <hi>Babe.</hi> The <hi>whole</hi> Body of the <hi>Clergy</hi> (to be ſure of it) either <hi>Baniſhed</hi> or <hi>Sacrificed:</hi> the <hi>Church</hi> de<g ref="char:EOLhyphen"/>ſtroy'd, and her Lands Eſcheated to pay all the Charges of the <hi>Plot,</hi> &amp;c. All Laws <hi>overlaid,</hi> and <hi>ſtifled:</hi> The <hi>Nobility,</hi> and <hi>Gentry</hi> rooted out, and all their Poſſeſſions given to his <hi>Own Souldiers;</hi> (nothing re<g ref="char:EOLhyphen"/>maining to their <hi>Heirs</hi> after them but <hi>Po<g ref="char:EOLhyphen"/>verty;</hi> which is a <hi>ſure</hi> Inheritance, and can neither be <hi>plundered,</hi> nor <hi>forfeited;)</hi> forcing them notwithſtanding to <hi>hold it</hi> under them as their <hi>Salves</hi> and Vaſſals. Hear <hi>his</hi> Lan<g ref="char:EOLhyphen"/>guage.—<hi>Thy Silver</hi> and <hi>Gold</hi> is <hi>mine,</hi> thy
+<pb n="6" facs="tcp:43519:6"/>
+               <hi>Women</hi> and <hi>Fair</hi> Children. And if any thing be deny'd,—<hi>The gods do ſo unto me, and more alſo, if the Duſt of thy Land be ſufficient for my People, every man to take an handful.</hi> Not a <hi>Remnant</hi> to be ſaved; not a Berry <hi>here</hi> and <hi>there</hi> in the <hi>utmoſt</hi> Boughs.</p>
+            <p>In ſhort; the Conſequence would have been, a <hi>French</hi> Government, and <hi>French</hi> Po<g ref="char:EOLhyphen"/>pery; the <hi>Yoak</hi> of which is neither <hi>eaſie,</hi> nor the Burden <hi>light;</hi> which if not com<g ref="char:EOLhyphen"/>ply'd with would have forced us to the <hi>Galleys,</hi> or to be <hi>Martyrs</hi> or <hi>Refugees.</hi> Theſe would have been the <hi>Favours</hi> and the <hi>Graces</hi> that our Three Kingdoms had been <hi>crown'd</hi> and <hi>bleſt</hi> withal had the deſigns of our Fo<g ref="char:EOLhyphen"/>reign Enemies, and our <hi>Falſe Brethren</hi> with<g ref="char:EOLhyphen"/>in our Selves, (Good God! that ever there ſhould be in a <hi>certain Iſland</hi> of the World ſuch <hi>Devils</hi> in <hi>Humane</hi> ſhape!) had their deſigns I ſay ſucceeded.</p>
+            <pb n="7" facs="tcp:43519:6"/>
+            <p> But to the Lord our GOD belong the Iſſues from Death. Come, and behold his <hi>Works</hi> of Mercy, and Deliverance: <hi>See</hi> them, <hi>touch</hi> them, <hi>handle</hi> them; they are not <hi>Spi<g ref="char:EOLhyphen"/>rits, Fancies, Speculations;</hi> they are <hi>true Bo<g ref="char:EOLhyphen"/>dies,</hi> and have the <hi>fleſh</hi> and <hi>bones</hi> of real Works. Juſt when the Arrow was upon the String, and the <hi>down-lookt</hi> Rebels, men skilful to deſtroy, had prepared the In<g ref="char:EOLhyphen"/>ſtruments of Death, and <hi>marked</hi> out the <hi>very Place</hi> where to <hi>Fire</hi> His Majeſty out of his Life; when the <hi>Decree</hi> was <hi>Signed</hi> by <hi>a Kings Letters,</hi> and they ſaid, the days of Mourning are come, come let us Kill the <hi>Spark,</hi> (for we will not have <hi>this</hi> Man to Rule over us;) and ſubvert his Kingdom, that <hi>his Name</hi> may be had no more in Re<g ref="char:EOLhyphen"/>membrance; then it was that He ſcattered the Proud in the Imagination of their Hearts; and ſo diſappointed their Devices that their Hands could not perform their Enterprize: The Wicked is ſnared in the work of his own hands, <hi>Higgaion, Selah;</hi>
+               <pb n="8" facs="tcp:43519:7"/>Mark, and Meditate. This is the Lord's Doing, and it is marvellous in our Eyes. <hi>Da Veniam Imperator;</hi> Pardon me, (Great Sir) It was not Fleſh and Blood that Re<g ref="char:EOLhyphen"/>veal'd this Myſtery of Iniquity unto you, but <hi>Your</hi> Father, and Saviour which is in Heaven.</p>
+            <p>Happy art thou, <hi>O England,</hi> who is like unto Thee ſaved by the Lord? Thine E<g ref="char:EOLhyphen"/>nemies are found <hi>Lyars</hi> unto thee. The Snare is broken, and we are deliver'd; their Machinations are unravell'd into Folly, and Shame and Diſhonour are their laſt promotion. They are hurl'd out of the Land of the Living as out of the midſt of a Sling; and are periſh'd in their own Corruption, and have conſulted Shame to their Houſes. The Miſchief is return'd upon their own Heads, and the wicked are ſilent in Darkneſs, and we are ſure that the Judgment of GOD is according to Truth againſt <hi>thoſe</hi> which commit <hi>ſuch</hi> Things.</p>
+            <pb n="9" facs="tcp:43519:7"/>
+            <p> Oh the Depth of the Riches of the Wiſ<g ref="char:EOLhyphen"/>dom and Knowledge of GOD! How unſearchable are his <hi>Mercies</hi> as well as his Judgments, and his Ways paſt finding out! Of a Truth the Lord has not forſaken the Earth. Hear <hi>O Atheiſt; perceive,</hi> and <hi>un<g ref="char:EOLhyphen"/>derſtand</hi> and be <hi>Converted:</hi> The Lord GOD of Gods he knows; his Eyes behold, and his Eye-Lids conſider: He narrowly ob<g ref="char:EOLhyphen"/>ſerved all their Thoughts, and watch'd their Motions when they wafted over into <hi>France,</hi> and conferr'd at <hi>Verſailles</hi> and St. <hi>Germains:</hi> He <hi>marked the hiſſing of the Bee of</hi> Aſſur <hi>to the Fly of</hi> Egypt; all the Intelli<g ref="char:EOLhyphen"/>gence, I mean, that paſſed betwixt a <hi>diſ<g ref="char:EOLhyphen"/>contented Party</hi> amongſt us and an <hi>Unworthy</hi> Monarch, (whoſe Character will be infa<g ref="char:EOLhyphen"/>mous to the End of the World, as he is now the <hi>Scandal</hi> of his Age for this laſt <hi>Unnatural</hi> Conſpiracy, notwithſtanding his <hi>Manifeſto</hi>'s, and <hi>Fulſome Gazettes,</hi> and the Induſtry of all his <hi>Miniſters</hi> abroad to perſwade the World, which <hi>no body</hi> will believe, of <hi>His</hi> and <hi>ſome Bodies</hi> elſe preten<g ref="char:EOLhyphen"/>ded
+<pb n="10" facs="tcp:43519:8"/>Innocency, and that <hi>They</hi> knew <hi>nothing</hi> of the <hi>Matter,</hi>) and the Miſchiefs which they deſign'd for others, like over-char<g ref="char:EOLhyphen"/>ged Pieces hath recoyl'd upon themſelves; their own Counſel hath caſt them down. So true is the Obſervation of the Hiſto<g ref="char:EOLhyphen"/>rian,
+<note place="margin">Livy.</note> 
+               <hi>Conſilia callida primâ ſpecie laeta, tractatu dura, eventu triſtia;</hi> Treacherous Counſels are kindled with many ſparkling Hopes, with great difficulty preſerv'd and kept in, and go out in as much Stench and Danger. Thus has GOD made the <hi>Wrath</hi> of Man (as well as do their <hi>Vertues</hi> and <hi>Graces</hi>) to praiſe him; and the remainder of Wrath he will reſtrain. The <hi>LXX</hi> in their Tranſlation have wittily expreſt the laſt words; the Remainder of Wrath, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſhall <hi>keep Holy Day</hi> unto thee; <hi>i. e.</hi> ſhall <hi>reſt</hi> from its <hi>Labour,</hi> ſhall be ſo curb'd and bound up as never more to break out, but give his People opportunity to <hi>Land</hi> and <hi>Magniſy</hi> his Glorious Name. Which na<g ref="char:EOLhyphen"/>turally leads me to the Conſideration of ſome few things which this Grand Deli<g ref="char:EOLhyphen"/>verance
+<pb n="11" facs="tcp:43519:8"/>of ours does more eſpecially ob<g ref="char:EOLhyphen"/>lige us all unto; which I ſhall do with that <hi>freedom</hi> and <hi>plainneſs</hi> that becomes the <hi>Place</hi> I now <hi>ſtand</hi> in. And</p>
+            <p>Firſt, Let not the Horror of the in<g ref="char:EOLhyphen"/>tended Miſchiefs chill the juſt Triumph of the Day; but let us be affected with, and raiſe an Altar of Praiſe, and Thankſ<g ref="char:EOLhyphen"/>giving to the <hi>Known</hi> GOD for this ſo <hi>ſeaſonable</hi> but <hi>unexpected</hi> Mercy. What, think we, can be the deſign of it, but that we ſhould talk of his Loving-kind<g ref="char:EOLhyphen"/>neſs in the <hi>Morning,</hi> and of his Faithful<g ref="char:EOLhyphen"/>neſs every <hi>Night;</hi> and make known to the Sons of Men his Mighty Acts, and the glorious Majeſty of his Kingdom? A<g ref="char:EOLhyphen"/>wake, awake <hi>Deborah,</hi> and ariſe <hi>Barac</hi> the Son of <hi>Ahinoam.</hi> Glory and Honour and Thanks to him that ſits on the Throne; Hallelujah! For the Lord Omnipotent Reigneth. <hi>Nature</hi> it ſelf (if there was no <hi>Bible</hi>) reads us a Lecture and prompts us to this Duty. Hear one of her <hi>High
+<pb n="12" facs="tcp:43519:9"/>Prieſts.
+<note place="margin">
+                     <hi>Senec. de Be<g ref="char:EOLhyphen"/>nef. lib.</hi> 3. <hi>cap.</hi> 1.</note> Ingratus eſt, qui Beneficium accepiſſe ſe negat, quod accepit; ingratus eſt qui diſſi<g ref="char:EOLhyphen"/>mulat; ingratus qui non reddit; ingratiſſimus Omnium qui oblitus eſt.</hi> That Man is un<g ref="char:EOLhyphen"/>grateful that denies a Benefit received, and ſo is He that diſſembles it, nor is he any better that doth not requite it, but he is moſt of all that hath forgot it. GOD by no means will admit that his Mercies ſhould be writ in Sand to be waſht away by the next coming in of the Tide; but expects they ſhould be thankfully had in remembrance. Let us not therefore look upon <hi>Publick Mercies</hi> as we do upon <hi>Publick Duties,</hi> That which is Every mans work is no mans; but let us rejoyce in the Good of GOD's Cho<g ref="char:EOLhyphen"/>ſen, and glory with his Inheritance: And ſince this <hi>bitter Cup</hi> is paſt from us, let us take the <hi>Cup</hi> of <hi>Salvation,</hi> and praiſe the Name of the Lord. This is a Day wherein Praiſes ſhould wait for him; <hi>Tibi ſilet Laus, Pagnine</hi> renders it; Praiſe is ſilent to Thee O GOD in <hi>Sion;</hi> ſuch
+<pb n="13" facs="tcp:43519:9"/>a <hi>Throng</hi> of Praiſes and <hi>ſo great</hi> that they were <hi>unutterable;</hi> and therefore <hi>ſilent</hi> praiſe. (as we ſay of Cares, <hi>Leres Loquuntur, in<g ref="char:EOLhyphen"/>gentes ſtupent.</hi>) Yet ſuppoſing they ſhould be more than we can expreſs, we ought however to endeavour to expreſs them to GOD as well as we can; And we do it in the beſt manner when we walk an<g ref="char:EOLhyphen"/>ſwerably to ſuch Loving Kindneſs. The <hi>Riches</hi> of Gods Goodneſs ſhould lead us to Repentance, and a Pious Improvement of them: this is the way to <hi>hallow</hi> his Name, and not onely to preſerve his Mer<g ref="char:EOLhyphen"/>cies, but to <hi>Praiſe</hi> him into <hi>greater.</hi> But Fatal it would prove, if we ſhould count that we are deliver'd to commit <hi>Abomi<g ref="char:EOLhyphen"/>nations:</hi> This will cauſe GOD to be weary of us, and as he hath done great Things <hi>for</hi> us, ſo to do great Things <hi>a<g ref="char:EOLhyphen"/>gainſt</hi> us; to let looſe our Enemies upon us again, and to ſuffer them to ſtrike us home, to execute their Malice, and quench the Light of our <hi>Iſrael.</hi>
+            </p>
+            <pb n="14" facs="tcp:43519:10"/>
+            <p> When <hi>Joſhua</hi> aggravates the Sin of <hi>Achan</hi> he ſeems to play the Herauld;
+<note place="margin">
+                  <hi>Joſ.</hi> 7.1.</note> for we are told that <hi>Achan</hi> was the Son of <hi>Carmi,</hi> the Son of <hi>Zabdi,</hi> the Son of <hi>Zerah,</hi> of the <hi>Tribe</hi> of <hi>Judah.</hi> Had <hi>Achan</hi> been a poor ignorant Heathen, his Sin, even in theſe lower Circumſtances, would have incenſ<g ref="char:EOLhyphen"/>ed the Wrath of the Almighty, and have pull'd down Judgment upon him: But <hi>Achan</hi> that was a <hi>Jew,</hi> and that <hi>no mean Jew,</hi> but of the <hi>Royal Tribe</hi> of <hi>Judah,</hi> and de<g ref="char:EOLhyphen"/>ſcended from ſuch <hi>Noble</hi> Progenitors as <hi>Carmi, Zabdi,</hi> and <hi>Zerah;</hi> for him to com<g ref="char:EOLhyphen"/>mit a Treſpaſs of this Nature, his Privi<g ref="char:EOLhyphen"/>ledges and Advantages exceedingly ag<g ref="char:EOLhyphen"/>gravated his Sin, and rendred him obnox<g ref="char:EOLhyphen"/>ious to a double puniſhment which were both inflicted, as you may read at your Leiſure. To apply this to our ſelves; If we who call our ſelves Members of the <hi>beſt</hi> Church in the World, and comparing our ſelves with other Nations and Churches Experience the <hi>Portion</hi> of our Mercies to
+<pb n="15" facs="tcp:43519:10"/>be like that of the <hi>Firſt-born, double</hi> to what they have at any time enjoy'd; if therefore We, who have <hi>received much,</hi> inſtead of <hi>loving much,</hi> provoke him by our Iniquities, what can we expect but that he will pour out upon us the abundance of his <hi>Fury? You only have I known</hi> of <hi>all the Families of the Earth</hi> (certainly that People muſt be bleſ<g ref="char:EOLhyphen"/>ſed indeed that could thus call him <hi>their Lord</hi> and <hi>their</hi> GOD; no, very far from it;) <hi>therefore will I viſit upon you all your Ini<g ref="char:EOLhyphen"/>quities.</hi>
+            </p>
+            <p>Strange Puniſhment, ſays <hi>Job, Chap.</hi> 31.3. is to the Workers of Iniquity; <hi>i. e. extraordinary,</hi> and <hi>unuſual.</hi> That <hi>Wee</hi> have and continue to be <hi>ſuch,</hi> is too notorious to be deny'd: Yet inſtead of <hi>Strange</hi> Pu<g ref="char:EOLhyphen"/>niſhment inflicted, We have had <hi>Strange</hi> Mercy conferr'd upon us: But let us not miſtake our ſelves, the Word of GOD threatned ſtill remains true, and ſhall do ſo for ever; and therefore, tho' he hath ſhewn his <hi>Prerogative</hi> at <hi>this</hi> time
+<pb n="16" facs="tcp:43519:11"/>in the diſpenſation of his Mercy towards us, and ſuffer'd himſelf to except us from the <hi>General</hi> Rule by Proclaiming his Name, the Lord, the Lord <hi>Gracious,</hi> and <hi>Merciful,</hi> abundant in <hi>Goodneſs;</hi> Yet if we abuſe <hi>this</hi> his Mercy, <hi>this ſo great Salvation</hi> it will be bitterneſs in the Latter End; Judgment without Mercy.</p>
+            <p>Secondly, May we all, by this happy Deliverance, be provoked to Unity and Peace. We are deliver'd from being de<g ref="char:EOLhyphen"/>voured by our <hi>Enemies,</hi> and ſhall we be our <hi>own</hi> deſtroyers? It was Barbarous in the Prieſts of <hi>Baal</hi> to cut and ſlaſh <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> but much worſe it is in us to cut, and Slaſh <hi>one another.</hi> Let us learn this Wiſdom I beg of you, of our Adverſa<g ref="char:EOLhyphen"/>ries, ſince there is <hi>One Soul,</hi> and <hi>Spirit</hi> poſſeſſes them to ruin us; to Love and Unite (that's the beſt <hi>Aſſociation</hi>) for mu<g ref="char:EOLhyphen"/>tual Safety. GOD has in Mercy, it's true, diverted the Blow at preſent; but it's as true that onely the Power of our
+<pb n="17" facs="tcp:43519:11"/>Enemies is abated, not their Malice and Bloody Minds, not their Pride, or their Expectations. We need not a Prophet to tell us <hi>what</hi> is <hi>ſpoken</hi> in the <hi>King</hi> of <hi>Syria</hi>'s <hi>Bedchamber.</hi> They ſtick not yet to ſay, <hi>They ſhall have a day for it;</hi> and if it ſhould not happen in their Time, they have pro<g ref="char:EOLhyphen"/>vided that their Malice may ſurvive them<g ref="char:EOLhyphen"/>ſelves, (thus one Depth will call for ano<g ref="char:EOLhyphen"/>ther;) and <hi>their Children</hi> after them are to imbibe their Sowre, poyſonous Principles, and revenge their Quarrel. Like the plodding <hi>Spaniard</hi> at his game of <hi>Cheſs,</hi> who having not <hi>Succeſs,</hi> or <hi>Time</hi> to give Check <hi>&amp;c.</hi> leaves it to be play'd out by his <hi>Succeſſor.</hi> But what need they to be ſo very earneſt and hot? Let us but alone, and we ſhall deſtroy our ſelves by our Differences and Diviſions; and it's a wounding reflexion to conſider that Men ſhould not ſee it plainly, but cauſe Schiſmes and Factions, and purſue them too on purpoſe to make our Ruin una<g ref="char:EOLhyphen"/>voidable.</p>
+            <pb n="18" facs="tcp:43519:12"/>
+            <p> If therefore we are ſenſible how <hi>Indu<g ref="char:EOLhyphen"/>ſtrious, Politick,</hi> and <hi>numerous</hi> our Enemies are, in whoſe Heart ſtill it is to deſtroy and cut off Nations not a few; If we have any Senſe of the Dangers that our Divi<g ref="char:EOLhyphen"/>ſions, and Animoſities may bring upon us; (which next to Apoſtacy from GOD have always proved fatal to a Church, or Nation;) If we have any Honour, or Re<g ref="char:EOLhyphen"/>ſpect for our Country, our Religion, or Poſterity; (and GOD forgive them that have not) let theſe be perſwaſives to Uni<g ref="char:EOLhyphen"/>ty and Peace. Let all petty Intereſts and Bones of Contention be ſacrific'd to the Publick Benefit; and though it is an Un<g ref="char:EOLhyphen"/>happineſs at preſent that we cannot ſyn<g ref="char:EOLhyphen"/>cretize in the <hi>Minutes</hi> of Religion and Wor<g ref="char:EOLhyphen"/>ſhip; yet ought not this to prevent our being Publick-ſpirited, or that we ſhould not labour after the things that make for Peace: And was this but heartily once put in Practiſe, I doubt not in the leaſt but, through the Bleſſing of GOD, and
+<pb n="19" facs="tcp:43519:12"/>the Prudence and Goodneſs of our Gover<g ref="char:EOLhyphen"/>nours, but the effect would be the Secu<g ref="char:EOLhyphen"/>rity of the King, Church and State, mau<g ref="char:EOLhyphen"/>gre all the Attempts and Deſigns of Our Adverſaries.</p>
+            <p>Thirdly, Let this Diſcovery be a Warn<g ref="char:EOLhyphen"/>ing how we engage in Factions and Con<g ref="char:EOLhyphen"/>ſpiracies. Our Buſineſs (my Brethren) is to be Quiet and Governable; and not to fill our Noddles with Politick Whimſies, or intereſt our ſelves with men of Roving Heads, and unſettled Minds: who cannot tell themſelves nor any body elſe for them what they would have but are reſtleſs and uneaſie in all Reigns. Such Converſati<g ref="char:EOLhyphen"/>on is infectious; it makes men <hi>Peeviſh,</hi> and <hi>Proud,</hi> &amp;c. (with the froward men will learn frowardneſs;) and unawares draws them into Plots and Rebellion; and what the Conſequence of that is let <hi>the Tree</hi> ſpeak. For what <hi>Suetonius</hi> reports of ſuch as ſtabb'd <hi>Julius Caeſar</hi> is generally true of all Traytors, <hi>Ne quiſquam ſua morte de<g ref="char:EOLhyphen"/>functus
+<pb n="20" facs="tcp:43519:13"/>eſt,</hi> not one of them dy'd a <hi>Natural</hi> Death, or went down to his Grave in Peace. And the reaſon why a Sevenfold Venge<g ref="char:EOLhyphen"/>ance was threatned more upon <hi>him</hi> that ſhould kill <hi>Cain,</hi> than was upon <hi>Cain</hi> him<g ref="char:EOLhyphen"/>ſelf though a bloody Fratricide, by ſome is thought to be this, becauſe <hi>Cain</hi> was a Prince, and being eldeſt Son to <hi>Adam</hi> was Heir ap<g ref="char:EOLhyphen"/>parent to the Crown of the whole World.</p>
+            <p>The Sum of all is thus much: All Trea<g ref="char:EOLhyphen"/>cherous Plots are founded in a deep <hi>Malice,</hi> and Ambition; upheld for a time by <hi>Large Expence</hi> and <hi>vain Confidence,</hi> and end in an <hi>unexpected diſcovery,</hi> a <hi>juſt Puniſhment,</hi> and <hi>per<g ref="char:EOLhyphen"/>petual Infamy. My Son</hi> therefore, fear thou the <hi>Lord</hi> and the <hi>King</hi> and meddle not with thoſe that are given to <hi>Change:</hi> And let us all put up the Church Prayer, which is not to be found in any of the <hi>Roman Miſ<g ref="char:EOLhyphen"/>ſals,</hi> that from all <hi>Sedition, Privy Conſpiracy</hi> and <hi>Rebellion</hi> GOD would deliver us.</p>
+            <p>Fourthly, Let this Deliverance oblige
+<pb n="21" facs="tcp:43519:13"/>us to put our future Truſt in GOD; and to place our Confidence in Him <hi>that raiſeth the Dead,</hi> from whence <hi>in a Figure</hi> we have been raiſed. This is our <hi>meet, right</hi> and our <hi>bounden</hi> Duty; nay whither would our Reaſon direct us but unto that GOD whom we have found a very preſent Help in Trouble, and from whom comes every good and perfect Gift: Who can no more ſuffer a change in his Mercy then in Him<g ref="char:EOLhyphen"/>ſelf, but is yeſterday, to day and the ſame for ever. Fear not then <hi>Thou Worm Jacob,</hi> fear <hi>not</hi> then <hi>little Flock;</hi> if the Wolves aſ<g ref="char:EOLhyphen"/>ſault thee, rely upon thy experienced Kee<g ref="char:EOLhyphen"/>per that neither ſlumbers nor ſleeps; if the claſhing of Armour, or the Threats of the Proud affright thee, truſt thy ſelf and Cauſe to the Lord of Hoſts who does great things and unſearchable, marvellous things with<g ref="char:EOLhyphen"/>out Number; and has promis'd to be a <hi>Sun</hi> and a <hi>Shield</hi> to them that walk uprightly, <hi>Pſal.</hi> 84.11. A Shield to defend, and a Sun to extinguiſh the fire of the Adverſa<g ref="char:EOLhyphen"/>ries Fury by ſhining upon it. In ſhort they
+<pb n="22" facs="tcp:43519:14"/>that know <hi>his Name</hi> (and <hi>Nature</hi>) will put their Truſt in him; for the Lord never forſaketh them that ſeek him.</p>
+            <p>Laſtly, Let us pray to GOD for His <hi>Majeſty</hi> King <hi>William</hi> (in whoſe Life all our deareſt Intereſts are bound up, and of whom we truſt he hath Sworn by his Holineſs that he will never fail him) that as he hath now wonderfully preſerv'd <hi>Him</hi> that was <hi>appoint<g ref="char:EOLhyphen"/>ed to die,</hi> ſo He would ſtill keep him as the Apple of an Eye, and hide him under his Feathers, and ſuffer no Weapon formed a<g ref="char:EOLhyphen"/>gainſt him to proſper: That he would Crown his Arms with Victory and Succeſs; that at laſt he may have reſt from all his Enemies on every ſide, and leiſure to paſs his <hi>Old</hi> Age in comfort and ſafety, ſerving that GOD without Diſtraction whoſe Mercies all along have been ſo eminent towards him; and then be received up into Glory. <hi>Which GOD of his Infinite Mercy Grant,</hi> &amp;c.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:43519:14"/>
+            <head>Sermons New Publiſhed, and Sold by <hi>B. Aylmer</hi> in <hi>Cornhil.</hi>
+            </head>
+            <list>
+               <item>THE Biſhop of <hi>Glouceſter</hi>'s Thankſ<g ref="char:EOLhyphen"/>giving Sermon before the Houſe of Lords, at <hi>Weſtminſter-Abby, April,</hi> 16th. 1696.</item>
+               <item>Mr. <hi>Stephens</hi> of <hi>Sutton</hi> in <hi>Surrey</hi> his Thankſ<g ref="char:EOLhyphen"/>giving Sermon, Preach'd before the Lord Mayor and Aldermen at <hi>Bow-Church; April</hi> the 16th.</item>
+               <item>Mr. <hi>Showers</hi> his Thankſgiving Sermon, alſo upon the 16th. of <hi>April.</hi>
+               </item>
+               <item>Mr. <hi>Strypes</hi> of <hi>Low-Layton</hi> his Thankſ<g ref="char:EOLhyphen"/>giving Sermon, the ſame day.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
